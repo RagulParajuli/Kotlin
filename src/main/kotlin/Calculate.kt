@@ -9,5 +9,4 @@ fun main() {
     println("The $x * $y : $(x * y)")
     println("The $x / $y : $(x / y)")
 
-
 }
