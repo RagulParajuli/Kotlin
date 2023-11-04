@@ -8,5 +8,4 @@ fun main() {
     println("My age is $age")
     age = 19
     println("But in a few days I will turn to $age and It's $bool")
-
 }
